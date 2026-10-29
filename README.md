@@ -1,6 +1,6 @@
 # Code for "Not your average Clever Hans: Latent representation of psychological constructs in large language models"
 
-Code for the article *Not your average Clever Hans: Latent representation of psychological constructs in large language models* (Jack Chen, Xiao Li, Zelin Zhou, and Chunlin An; submitted to *Psychological Science*). The materials, all results that the analyses
+Code for the article *Not your average Clever Hans: Latent representation of psychological constructs in large language models* (Jack Chen, Xiao Li, Zelin Zhou, Chunlin An, and Lexi Chen; submitted to *Psychological Science*). The materials, all results that the analyses
 read, and a snapshot of this repository are archived at Zenodo (https://doi.org/10.5281/zenodo.23771693). An earlier version of the article is available as a
 preprint on SSRN (https://doi.org/10.2139/ssrn.7652158).
 
@@ -232,4 +232,4 @@ repository.
 
 ## Citation
 
-Chen, J., Li, X., Zhou, Z., & An, C. (2026). *Not your average Clever Hans: Latent representation of psychological constructs in large language models* [Manuscript submitted for publication]. Code: https://github.com/schema-brand/latent-psychological-constructs. Materials, data, and code archive: https://doi.org/10.5281/zenodo.23771693.
+Chen, J., Li, X., Zhou, Z., An, C., & Chen, L. (2026). *Not your average Clever Hans: Latent representation of psychological constructs in large language models* [Manuscript submitted for publication]. Code: https://github.com/schema-brand/latent-psychological-constructs. Materials, data, and code archive: https://doi.org/10.5281/zenodo.23771693.
