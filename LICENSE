@@ -19,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-The materials and data in the Zenodo archive (https://doi.org/10.5281/zenodo.23771694) are licensed under the Creative Commons
-Attribution 4.0 International License (CC BY 4.0). Running the GPU steps downloads openly available language models from
-Hugging Face under their own licenses; re-creating the materials sends requests to third-party language-model services
-(OpenRouter) with the user's own API key.

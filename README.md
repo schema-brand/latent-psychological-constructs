@@ -12,7 +12,9 @@ the effects of inducing and removing them, and Study 5 the representations of in
 follows the representations over the training of one LLM.
 
 License: the code is released under the MIT License (`LICENSE`); the materials and data in the Zenodo archive under the Creative
-Commons Attribution 4.0 International License (CC BY 4.0).
+Commons Attribution 4.0 International License (CC BY 4.0). Running the GPU steps downloads openly available language models from
+Hugging Face under their own licenses; re-creating the materials sends requests to third-party language-model services
+(OpenRouter) with the user's own API key.
 
 ## Two kinds of steps
 
