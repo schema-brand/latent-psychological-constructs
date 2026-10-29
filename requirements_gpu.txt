@@ -1,0 +1,13 @@
+# GPU steps (code_v6/), run on Google Colab (NVIDIA RTX PRO 6000 with 96 GB, or A100 80 GB; High-RAM runtime), 19-21 Oct 2026.
+# The runner notebooks (runner_v1.ipynb, code_v6/runner_v1b.ipynb) install these packages at start-up; the exact versions that
+# Colab installed were not recorded (the then-current releases: transformers 5.x, with Colab's preinstalled torch and CUDA).
+transformers>=4.51
+accelerate
+huggingface_hub
+bitsandbytes
+scikit-learn
+sentence-transformers
+psutil
+# J-lens read-out (V2_jlens.py), installed without dependencies:
+#   pip install --no-deps git+https://github.com/anthropics/jacobian-lens.git
+# A Hugging Face access token is read from the Colab secret HF_TOKEN (needed for the Gemma models).

@@ -1,0 +1,12 @@
+# Laptop analyses, Supplemental tables and figures (no GPU, no API calls). Versions used: Python 3.13.14 on Windows 11.
+# torch is needed only to read the .pt result files; the CPU build is enough:
+#   pip install torch==2.13.0 --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements.txt
+numpy==2.5.0
+pandas==3.0.5
+scipy==1.18.0
+scikit-learn==1.9.0
+matplotlib==3.11.0
+torch==2.13.0
+# mock/mock_v6.py (CPU dry run of the GPU steps) additionally needs the tokenizers of the LLMs:
+#   transformers==5.15.0

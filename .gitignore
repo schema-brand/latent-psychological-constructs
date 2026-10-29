@@ -1,0 +1,24 @@
+# Data from the Zenodo archive: unzip the archives into this folder (they are not tracked here)
+/materials_v6/
+/materials_v4/
+/results_v6/
+/or_runner/local_root/
+/question_coding/
+/external/
+/analysis_v6/*.json
+/analysis_v6/*.csv
+/analysis_v6/*.npz
+/analysis_v6/*.npy
+/analysis_v6/*.md
+/analysis_v6/*.log
+/analysis_v6/jobs/
+/paper/SUPPLEMENTARY_TABLES_v1.md
+/paper/figs/figs_ps/
+/paper/figs/figs_v3/
+/paper/figs/shape_proto/
+/MANIFEST.sha256
+/tool-results/
+# local files
+__pycache__/
+*.pyc
+.env

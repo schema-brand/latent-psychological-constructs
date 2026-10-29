@@ -1,0 +1,2 @@
+# Keep every file byte-identical on all systems (no line-ending conversion), so that checksums match.
+* -text
